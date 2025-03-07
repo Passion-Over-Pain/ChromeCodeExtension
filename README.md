@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/f8f6b8d3-4531-4efc-971a-1313e7eb2b96)
+
 
 # Chrome Extension Setup Guide
-
+![image](https://github.com/user-attachments/assets/f8f6b8d3-4531-4efc-971a-1313e7eb2b96)
 ## 1. Clone or Download the Extension Repository
 
 Both Options work and produce the same result so feel free to use the one that works well with you.
