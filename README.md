@@ -58,7 +58,7 @@ Once you select the folder, your extension will be added to Chrome. You should s
 
 ---
 > [!TIP]
-> _Success is a measure of the growth I’ve achieved through my own failures._
+> _Difficult to understand, easy to overlook._
 
 <p align="center" style="font-family: 'Times New Roman', serif;">
   <a href="https://dev.to/passionoverpain">Dev.to</a> |
