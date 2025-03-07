@@ -56,4 +56,13 @@ Once you select the folder, your extension will be added to Chrome. You should s
 - **Errors in Console**: Open the **Developer Tools** (F12), go to the **Console** tab, and look for any error messages related to your extension. This can help diagnose any issues. 💬
 
 ---
+> [!TIP]
+> _Success is a measure of the growth I’ve achieved through my own failures._
 
+<p align="center" style="font-family: 'Times New Roman', serif;">
+  <a href="https://dev.to/passionoverpain">Dev.to</a> |
+  <a href="mailto:tinomhedziso21@gmail.com">Email</a> |
+  <a href="https://github.com/Passion-Over-Pain">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tinotenda-mhedziso/">LinkedIn</a> |
+  <a href="https://tinotenda-mhedziso.pages.dev/">Website</a>
+</p>
