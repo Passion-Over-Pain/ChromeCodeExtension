@@ -14,7 +14,7 @@ Both Options work and produce the same result so feel free to use the one that w
    git clone https://github.com/Passion-Over-Pain/ChromeCodeExtension
    ```
 
-# Chrome Extension Setup Guide 🚀
+# Chrome Extension Setup Guide 
 
 ### Option 2: Download the Repository as a ZIP (For Non-Git Users) 📦
 1. Click the **Code** button (green button), then select **Download ZIP**. 
@@ -27,7 +27,7 @@ Ensure you're using Google Chrome. This method works on the desktop version of C
 
 ## 3. Access Chrome’s Extensions Page 🔧
 1. Open a new tab in Chrome. 🖥️
-2. In the address bar, type **`chrome://extensions`** and press **Enter**. This will take you to the Extensions page. 📜
+2. In the address bar, type **`chrome://extensions`** and press **Enter**. This will take you to the Extensions page. 
 
 ## 4. Enable Developer Mode ⚙️
 1. In the top-right corner of the Extensions page, you’ll see a toggle for **Developer mode**. Turn it **ON** by clicking the switch. 
@@ -35,17 +35,18 @@ Ensure you're using Google Chrome. This method works on the desktop version of C
 ## 5. Load the Unpacked Extension 📂
 1. After enabling Developer mode, you'll see additional options appear, including **Load unpacked**, **Pack extension**, and **Update**. 
 2. Click the **Load unpacked** button. 📂
-3. A file dialog will open. Navigate to the folder where you extracted the ZIP file with the extension files. 📁
-4. Select the folder that contains the extension files and click **Select Folder** (on Windows) or **Open** (on Mac). 🖱
+3. A file dialog will open. Navigate to the folder where you extracted the ZIP file with the extension files. 
+4. Inside the extracted files, open the Chrome_Code_Theme folder.
+5. Click **Select Folder** (on Windows) or **Open** (on Mac). 🖱
 
 ## 6. Extension Installed 🎉
-Once you select the folder, your extension will be added to Chrome. You should see the extension appear in the list on the Extensions page. ✅
+Once you select the folder, your extension will be added to Chrome. You should see the extension appear in the list on the Extensions page. 
 
 ## 7. Enable/Disable or Configure the Extension ⚙️
 - You can **enable** or **disable** the extension by toggling the switch next to its name. 
 - Some extensions may have additional settings or options, which can be accessed by clicking the **Details** button. 🔍
 
-## 8. (Optional) Test the Extension 🧪
+## 8. (Optional) Test the Extension 
 - After installing, look for the extension’s icon in the top-right corner of the Chrome browser (next to the address bar). 🔝
 - Click on it to test the functionality of the extension. ✔️
 
@@ -53,7 +54,7 @@ Once you select the folder, your extension will be added to Chrome. You should s
 
 ## Troubleshooting 🛠️
 - **Extension Not Appearing**: Make sure you’re selecting the correct folder that contains the `manifest.json` file. 📄
-- **Errors in Console**: Open the **Developer Tools** (F12), go to the **Console** tab, and look for any error messages related to your extension. This can help diagnose any issues. 💬
+- **Errors in Console**: Open the **Developer Tools** (F12), go to the **Console** tab, and look for any error messages related to your extension. This can help diagnose any issues. 
 
 ---
 > [!TIP]
